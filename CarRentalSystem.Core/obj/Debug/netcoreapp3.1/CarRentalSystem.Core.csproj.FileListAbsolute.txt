@@ -1,0 +1,9 @@
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\bin\Debug\netcoreapp3.1\CarRentalSystem.Core.deps.json
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\bin\Debug\netcoreapp3.1\CarRentalSystem.Core.dll
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\bin\Debug\netcoreapp3.1\CarRentalSystem.Core.pdb
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\obj\Debug\netcoreapp3.1\CarRentalSystem.Core.csprojAssemblyReference.cache
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\obj\Debug\netcoreapp3.1\CarRentalSystem.Core.AssemblyInfoInputs.cache
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\obj\Debug\netcoreapp3.1\CarRentalSystem.Core.AssemblyInfo.cs
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\obj\Debug\netcoreapp3.1\CarRentalSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\obj\Debug\netcoreapp3.1\CarRentalSystem.Core.dll
+C:\Users\mervb\source\repos\ReCapProject\CarRentalSystem\CarRentalSystem.Core\obj\Debug\netcoreapp3.1\CarRentalSystem.Core.pdb
